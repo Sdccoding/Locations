@@ -2,12 +2,12 @@
   "name": "Trivia",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Souhardya",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
